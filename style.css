@@ -38,6 +38,15 @@ h1 {
   text-transform:capitalize;
 }
 
+a {
+  text-decoration: none;
+  color: #30AEEB;
+}
+
+a:hover {
+  filter: brightness(120%);
+}
+
 .subtitle {
   font-style: normal;
   font-weight: normal;
